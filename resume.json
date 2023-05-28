@@ -1,0 +1,225 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Omar Abdelbadie",
+    "label": "Full-Stack SDE in Machine Learning",
+    "image": "",
+    "email": "omar.abdelbadie1@gmail.com",
+    "phone": "4252462060",
+    "url": "https://github.com/bookRa",
+    "summary": "Hi there! I am a team-oriented data engineer and developer. Having worked across the full stack of web technologies, taking applications from prototype to production, I've learned first hand the value of high-quality code, scalable architecture, and effective data integration. \n\nMy passion lies in the applied sciences and mathematics-- structuring the (technological and psychological) pipelines that lead from data -> information -> insight -> creativity -> products -> positive impact \n\nIn me you will find a hard worker, a quick learner, and an excellent communicator. I love tackling challenging problems with skilled teammates in a collaborative, fast-paced environment.",
+    "location": {
+      "countryCode": "US",
+      "address": "United States"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "omar-abdelbadie",
+        "url": "https://www.linkedin.com/in/omar-abdelbadie/"
+      },
+      {
+        "network": "Twitter",
+        "username": "OAbdelbadie",
+        "url": "https://twitter.com/OAbdelbadie"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "OneLogin by One Identity",
+      "position": "Senior Data Engineer",
+      "startDate": "2022-03-31",
+      "endDate": "2023-03-31",
+      "highlights": [
+        "Managed and maintained a machine learning-based Account Takeover Protection core product feature.",
+        "Designed and developed a new customer feature, collaborating with multiple teams to ensure alignment with requirements.",
+        "Acted as the primary engineering point of contact for the Ops team, providing expertise in detailed data analysis and AWS OpenSearch."
+      ],
+      "summary": "FILL THIS IN WITH SOMETHING MEMORABLE AND POWERFUL",
+      "url": "https://www.linkedin.com/company/onelogin/",
+      "location": "Redmond, Washington, United States"
+    },
+    {
+      "name": "Flexe",
+      "position": "Software Engineer II",
+      "startDate": "2019-11-30",
+      "endDate": "2021-10-31",
+      "highlights": [
+        "Led the design and development of a new Order Management System feature, unlocking new mid-complexity customers with over 70,000 orders per month",
+        "Building and designing features for a rapidly growing product / customer base",
+        "Full-stack duties spanning a tech stack of Typescript, Ruby, and Scala",
+        "Infrastructure-as-code, microservice architecture, clean API design"
+      ],
+      "summary": "",
+      "url": "https://www.linkedin.com/company/flexe/",
+      "location": "Seattle, Washington, United States"
+    },
+    {
+      "name": "Unloop",
+      "position": "Web and Data Instructor",
+      "startDate": "2017-07-31",
+      "endDate": "2020-09-30",
+      "highlights": [
+        "Mentorship and Education spanning full stack Javascript and Typescript Development. Python/data science on the side"
+      ],
+      "summary": "",
+      "url": "https://www.linkedin.com/company/unloopwa/",
+      "location": "Seattle"
+    },
+    {
+      "name": "MAANA",
+      "position": "Research SDE in AI",
+      "startDate": "2018-11-30",
+      "endDate": "2019-07-31",
+      "highlights": [
+        "Integrate the latest and greatest AI services into the MAANA platform.",
+        "Optimized 4 AI Azure Kubernetes Microservices by implementing asynchronous calls and reducing image sizes by >70%",
+        "Streamlined customer ETL workflows by building a text annotation dashboard for custom Named Entity Recognition",
+        "Led research and design of API for External UI Integration feature",
+        "Delivered first-in-class training material for major client on proprietary data modeling platform"
+      ],
+      "summary": "",
+      "url": "https://www.linkedin.com/company/maana/",
+      "location": "Bellevue, WA"
+    },
+    {
+      "name": "General Assembly",
+      "position": "Data Science Tutor",
+      "startDate": "2018-11-30",
+      "endDate": "2019-02-28",
+      "highlights": [
+        "Coached 4 students through 12 weeks of homework/labs/projects in Data Science (scikit-learn, Tensorflow, spaCy), Engineering (Spark, web-scraping, AWS) and Visualization (Tableau, Seaborn).",
+        "Facilitated a 0% dropout rate and successful placement into Data Science roles."
+      ],
+      "summary": "",
+      "url": "https://www.linkedin.com/school/generalassembly/",
+      "location": "Seattle, WA"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "area": "Neurobiology; Applied Math; Japanese",
+      "studyType": "Bachelor of Science  (w/ College Honors)",
+      "startDate": "2009-12-31",
+      "endDate": "2013-12-31",
+      "score": "3.7",
+      "courses": []
+    },
+    {
+      "institution": "General Assembly",
+      "area": "Data Science Immersive",
+      "studyType": "",
+      "startDate": "2018-12-31",
+      "endDate": "2018-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Walla Walla Community College",
+      "area": "Bookkeeping Technology, Graphic Design",
+      "studyType": "Technical Certificates",
+      "startDate": "2015-12-31",
+      "endDate": "2016-12-31",
+      "score": "4.0",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "College & Departmental Honors",
+      "date": "2013-06-30",
+      "awarder": "University of Washington Honors Program",
+      "summary": "Completed Honors Program, as well as Undergraduate Thesis in Computational Neuroscience under Scott Murray of the UW VisCog Lab"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Amazon Web Services Cloud Practitioner",
+      "issuer": "Amazon Web Services (AWS)",
+      "endDate": "2022-09-30",
+      "startDate": "2019-09-30",
+      "url": "http://aws.amazon.com/verification"
+    },
+    {
+      "name": "TensorFlow Developer Certificate",
+      "issuer": "TensorFlow Certificate Program",
+      "endDate": "2023-11-30",
+      "startDate": "2020-11-30",
+      "url": "https://www.credential.net/a741d88d-c2c2-4146-b058-d0b60b87170f"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Smarter, Better, Faster, Longer: The Efficacy and Mechanisms of Cognitive Enhancement",
+      "publisher": "Grety Matters: UW Undergraduate Neuroscience Journal",
+      "releaseDate": "2013-10-31",
+      "summary": "An in-depth look at three effective methods of cognitive enhancement- meditation, medication, and brain-computer interfaces",
+      "url": "http://greymattersjournal.com/wp-content/uploads/2013/10/fall2013.pdf"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Data Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Apache Spark",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "REST API",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Arabic"
+    },
+    {
+      "fluency": "Limited Working",
+      "language": "Japanese"
+    },
+    {
+      "fluency": "Professional Working",
+      "language": "Spanish"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
