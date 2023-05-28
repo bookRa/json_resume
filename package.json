@@ -2,5 +2,8 @@
   "dependencies": {
     "jsonresume-theme-onepage-updated": "^1.0.3",
     "jsonresume-theme-straightforward": "^0.2.0"
+  },
+  "scripts": {
+    "print": "resume export halejlujah.html --theme straightforward"
   }
 }
