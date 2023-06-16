@@ -26,7 +26,7 @@
       {
         "network": "YouTube",
         "username": "@OmarAbdelbadie",
-        "url": "https://www.youtube.com/channel/UCVR7Wz3INGwnyP0L5uuye7Q"
+        "url": "https://youtube.com/@OmarAbdelbadie"
       }
     ]
   },
@@ -113,7 +113,6 @@
     {
       "institution": "General Assembly",
       "area": "Data Science Immersive",
-      "studyType": "",
       "startDate": "2018-07-16",
       "endDate": "2018-09-30",
       "score": "",
@@ -132,15 +131,13 @@
     {
       "name": "Amazon Web Services Cloud Practitioner",
       "issuer": "Amazon Web Services (AWS)",
-      "endDate": "2022-09-30",
-      "startDate": "2019-09-30",
-      "url": "http://aws.amazon.com/verification"
+      "date": "2019-09-30",
+      "url": "https://www.credly.com/badges/90f4fb8b-e420-4517-9cfe-cf40bfe1398a/public_url"
     },
     {
       "name": "TensorFlow Developer Certificate",
       "issuer": "TensorFlow Certificate Program",
-      "endDate": "2023-11-30",
-      "startDate": "2020-11-30",
+      "date": "2020-11-30",
       "url": "https://www.credential.net/a741d88d-c2c2-4146-b058-d0b60b87170f"
     }
   ],
@@ -150,7 +147,7 @@
       "publisher": "Grey Matters: UW Undergraduate Neuroscience Journal",
       "releaseDate": "2013-10-31",
       "summary": "An in-depth look at three effective methods of cognitive enhancement- meditation, medication, and brain-computer interfaces",
-      "url": "http://greymattersjournal.com/wp-content/uploads/2013/10/fall2013.pdf"
+      "url": "https://drive.google.com/file/d/1Opj_W5R5kTkdZYEvryx7LlIInkZVkVLW"
     }
   ],
   "skills": [

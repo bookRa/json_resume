@@ -10,6 +10,6 @@
   "scripts": {
     "elegant": "resume export big_o_elegant.pdf --theme elegant; resume export big_o_elegant.html --theme elegant",
     "eloquent": "resume export big_o_eloquent.pdf --theme eloquent; resume export big_o_eloquent.html --theme eloquent",
-    "print": "resume export ./pdfs/abdelbadie_${NAME:-default}.pdf --theme onepage-updated && resume export ./sites/abdelbadie_${NAME:-default}.html --theme elegant"
+    "print": "resume export ./pdfs/abdelbadie_${NAME:-default}.pdf --theme actual && resume export ./sites/abdelbadie_${NAME:-default}.html --theme elegant"
   }
 }
