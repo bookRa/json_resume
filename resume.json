@@ -27,6 +27,16 @@
         "network": "YouTube",
         "username": "@OmarAbdelbadie",
         "url": "https://youtube.com/@OmarAbdelbadie"
+      },
+      {
+        "network": "Github",
+        "username": "bookra",
+        "url": "https://github.com/bookra"
+      },
+      {
+        "network": "Medium",
+        "username": "omar.abdelbadie1",
+        "url": "https://medium.com/@omar.abdelbadie1"
       }
     ]
   },
