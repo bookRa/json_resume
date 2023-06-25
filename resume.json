@@ -5,12 +5,12 @@
     "label": "Full-Stack SDE in Machine Learning",
     "image": "",
     "email": "omar.abdelbadie1@gmail.com",
-    "phone": "4252462060",
+    "phone": "(425) 246-2060",
     "url": "https://github.com/bookRa",
     "summary": "From prototype to production, I value data-driven reactive architecture and clean functional code. I construct pipelines that transform data into impactful insights and products. An outspoken team player and quick learner, I thrive in collaborative, fast-paced environments, tackling challenging problems with exceptional communication skills.",
     "location": {
       "countryCode": "US",
-      "address": "United States"
+      "address": "Seattle, WA"
     },
     "profiles": [
       {
@@ -42,7 +42,7 @@
   },
   "work": [
     {
-      "company": "OneLogin by One Identity",
+      "name": "OneLogin by One Identity",
       "position": "Senior Data Engineer",
       "startDate": "2022-03-31",
       "endDate": "2023-03-31",
@@ -52,11 +52,11 @@
         "Wrote whitepaper on the life-or-death importance of a Unified Identity Platform, IAM, and Zero-Trust Architecture in the years to come."
       ],
       "summary": "I quickly took over maintaining a complex microservices suite amidst resource challenges. Inspiring colleagues and a period of high attrition motivated me. I facilitated cross-team communication using Msft Teams, engaging stakeholders across the company in a unique way. Leading process improvement meetings, we drove a swift, impactful change adopted company-wide.",
-      "website": "https://www.onelogin.com/",
-      "location": "Redmond, Washington, United States"
+      "url": "https://www.onelogin.com/",
+      "location": "Redmond, WA"
     },
     {
-      "company": "Flexe",
+      "name": "Flexe",
       "position": "Software Engineer II",
       "startDate": "2019-11-30",
       "endDate": "2021-10-31",
@@ -67,11 +67,11 @@
         "Full-stack duties spanning a tech stack of Typescript, Ruby, and Scala",
         "Infrastructure-as-code, microservice architecture, clean API design"
       ],
-      "website": "https://www.flexe.com/",
-      "location": "Seattle, Washington, United States"
+      "url": "https://www.flexe.com/",
+      "location": "Seattle, WA"
     },
     {
-      "company": "MAANA",
+      "name": "MAANA",
       "position": "Research SDE in AI",
       "startDate": "2018-11-30",
       "endDate": "2019-07-31",
@@ -82,11 +82,11 @@
         "Delivered first-in-class training material for Top Oil Company on proprietary data modeling platform"
       ],
       "summary": "I successfully transitioned from development to a data-science focused role. I supported my team of talented data scientists by handling infrastructure, integration, and frontend tasks. Under Chief Scientist Steve's leadership, we flourished in a creative and enjoyable environment, shielded from upper management politics.",
-      "website": "https://www.linkedin.com/company/maana/",
+      "url": "https://www.linkedin.com/company/maana/",
       "location": "Bellevue, WA"
     },
     {
-      "company": "General Assembly",
+      "name": "General Assembly",
       "position": "Data Science Tutor",
       "startDate": "2018-11-30",
       "endDate": "2019-02-28",
@@ -95,7 +95,7 @@
         "Facilitated a 0% dropout rate and successful placement into Data Science roles."
       ],
       "summary": "",
-      "website": "https://www.linkedin.com/school/generalassembly/",
+      "url": "https://www.linkedin.com/school/generalassembly/",
       "location": "Seattle, WA"
     }
   ],
