@@ -5,12 +5,12 @@
     "label": "Full-Stack SDE in Machine Learning",
     "image": "",
     "email": "omar.abdelbadie1@gmail.com",
-    "phone": "4252462060",
+    "phone": "(425) 246-2060",
     "url": "https://github.com/bookRa",
-    "summary": "Hi there! I am a team-oriented data engineer and developer. Having worked across the full stack of web technologies, taking applications from prototype to production, I've learned first hand the value of high-quality code, scalable architecture, and effective data integration. \n\nMy passion lies in the applied sciences and mathematics-- structuring the (technological and psychological) pipelines that lead from data -> information -> insight -> creativity -> products -> positive impact \n\nIn me you will find a hard worker, a quick learner, and an excellent communicator. I love tackling challenging problems with skilled teammates in a collaborative, fast-paced environment.",
+    "summary": "From prototype to production, I value data-driven reactive architecture and clean functional code. I construct pipelines that transform data into impactful insights and products. An outspoken team player and quick learner, I thrive in collaborative, fast-paced environments, tackling challenging problems with exceptional communication skills.",
     "location": {
       "countryCode": "US",
-      "address": "United States"
+      "address": "Seattle, WA"
     },
     "profiles": [
       {
@@ -22,6 +22,21 @@
         "network": "Twitter",
         "username": "OAbdelbadie",
         "url": "https://twitter.com/OAbdelbadie"
+      },
+      {
+        "network": "YouTube",
+        "username": "@OmarAbdelbadie",
+        "url": "https://youtube.com/@OmarAbdelbadie"
+      },
+      {
+        "network": "Github",
+        "username": "bookra",
+        "url": "https://github.com/bookra"
+      },
+      {
+        "network": "Medium",
+        "username": "omar.abdelbadie1",
+        "url": "https://medium.com/@omar.abdelbadie1"
       }
     ]
   },
@@ -32,40 +47,28 @@
       "startDate": "2022-03-31",
       "endDate": "2023-03-31",
       "highlights": [
-        "Managed and maintained a machine learning-based Account Takeover Protection core product feature.",
-        "Designed and developed a new customer feature, collaborating with multiple teams to ensure alignment with requirements.",
-        "Acted as the primary engineering point of contact for the Ops team, providing expertise in detailed data analysis and AWS OpenSearch."
+        "Solely maintained a suite of microservices comprising a machine learning-based Account Takeover Protection core product feature.",
+        "Worked closely with Ops team to migrate AWS Elasticsearch indexes, cutting bill by >75% while maintaining service performance.",
+        "Wrote whitepaper on the life-or-death importance of a Unified Identity Platform, IAM, and Zero-Trust Architecture in the years to come."
       ],
-      "summary": "FILL THIS IN WITH SOMETHING MEMORABLE AND POWERFUL",
-      "url": "https://www.linkedin.com/company/onelogin/",
-      "location": "Redmond, Washington, United States"
+      "summary": "I quickly took over maintaining a complex microservices suite amidst resource challenges. Inspiring colleagues and a period of high attrition motivated me. I facilitated cross-team communication using Msft Teams, engaging stakeholders across the company in a unique way. Leading process improvement meetings, we drove a swift, impactful change adopted company-wide.",
+      "url": "https://www.onelogin.com/",
+      "location": "Redmond, WA"
     },
     {
       "name": "Flexe",
       "position": "Software Engineer II",
       "startDate": "2019-11-30",
       "endDate": "2021-10-31",
+      "summary": "Instilled a love of test-driven development, actionable metrics, and DevOps ownership under our mission-driven, transparent leadership (heavily ex-Amazon)",
       "highlights": [
         "Led the design and development of a new Order Management System feature, unlocking new mid-complexity customers with over 70,000 orders per month",
         "Building and designing features for a rapidly growing product / customer base",
         "Full-stack duties spanning a tech stack of Typescript, Ruby, and Scala",
         "Infrastructure-as-code, microservice architecture, clean API design"
       ],
-      "summary": "",
-      "url": "https://www.linkedin.com/company/flexe/",
-      "location": "Seattle, Washington, United States"
-    },
-    {
-      "name": "Unloop",
-      "position": "Web and Data Instructor",
-      "startDate": "2017-07-31",
-      "endDate": "2020-09-30",
-      "highlights": [
-        "Mentorship and Education spanning full stack Javascript and Typescript Development. Python/data science on the side"
-      ],
-      "summary": "",
-      "url": "https://www.linkedin.com/company/unloopwa/",
-      "location": "Seattle"
+      "url": "https://www.flexe.com/",
+      "location": "Seattle, WA"
     },
     {
       "name": "MAANA",
@@ -73,13 +76,12 @@
       "startDate": "2018-11-30",
       "endDate": "2019-07-31",
       "highlights": [
-        "Integrate the latest and greatest AI services into the MAANA platform.",
         "Optimized 4 AI Azure Kubernetes Microservices by implementing asynchronous calls and reducing image sizes by >70%",
         "Streamlined customer ETL workflows by building a text annotation dashboard for custom Named Entity Recognition",
         "Led research and design of API for External UI Integration feature",
-        "Delivered first-in-class training material for major client on proprietary data modeling platform"
+        "Delivered first-in-class training material for Top Oil Company on proprietary data modeling platform"
       ],
-      "summary": "",
+      "summary": "I successfully transitioned from development to a data-science focused role. I supported my team of talented data scientists by handling infrastructure, integration, and frontend tasks. Under Chief Scientist Steve's leadership, we flourished in a creative and enjoyable environment, shielded from upper management politics.",
       "url": "https://www.linkedin.com/company/maana/",
       "location": "Bellevue, WA"
     },
@@ -97,12 +99,22 @@
       "location": "Seattle, WA"
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "Unloop",
+      "position": "Web and Data Instructor",
+      "startDate": "2017-07-31",
+      "endDate": "2020-09-30",
+      "summary": "Mentored and tutored formerly incarcerated men and women to enter the tech industry.",
+      "website": "https://www.un-loop.org/",
+      "location": "Seattle"
+    }
+  ],
   "education": [
     {
       "institution": "University of Washington",
       "area": "Neurobiology; Applied Math; Japanese",
-      "studyType": "Bachelor of Science  (w/ College Honors)",
+      "studyType": "Bachelor of Science",
       "startDate": "2009-12-31",
       "endDate": "2013-12-31",
       "score": "3.7",
@@ -111,19 +123,9 @@
     {
       "institution": "General Assembly",
       "area": "Data Science Immersive",
-      "studyType": "",
-      "startDate": "2018-12-31",
-      "endDate": "2018-12-31",
+      "startDate": "2018-07-16",
+      "endDate": "2018-09-30",
       "score": "",
-      "courses": []
-    },
-    {
-      "institution": "Walla Walla Community College",
-      "area": "Bookkeeping Technology, Graphic Design",
-      "studyType": "Technical Certificates",
-      "startDate": "2015-12-31",
-      "endDate": "2016-12-31",
-      "score": "4.0",
       "courses": []
     }
   ],
@@ -132,68 +134,71 @@
       "title": "College & Departmental Honors",
       "date": "2013-06-30",
       "awarder": "University of Washington Honors Program",
-      "summary": "Completed Honors Program, as well as Undergraduate Thesis in Computational Neuroscience under Scott Murray of the UW VisCog Lab"
+      "summary": "Thesis: Attention and the Pupillary Light Response || UW VisCog Lab || Computational Neuroscience Training Program"
     }
   ],
   "certificates": [
     {
       "name": "Amazon Web Services Cloud Practitioner",
       "issuer": "Amazon Web Services (AWS)",
-      "endDate": "2022-09-30",
-      "startDate": "2019-09-30",
-      "url": "http://aws.amazon.com/verification"
+      "date": "2019-09-30",
+      "url": "https://www.credly.com/badges/90f4fb8b-e420-4517-9cfe-cf40bfe1398a/public_url"
     },
     {
       "name": "TensorFlow Developer Certificate",
       "issuer": "TensorFlow Certificate Program",
-      "endDate": "2023-11-30",
-      "startDate": "2020-11-30",
+      "date": "2020-11-30",
       "url": "https://www.credential.net/a741d88d-c2c2-4146-b058-d0b60b87170f"
     }
   ],
   "publications": [
     {
       "name": "Smarter, Better, Faster, Longer: The Efficacy and Mechanisms of Cognitive Enhancement",
-      "publisher": "Grety Matters: UW Undergraduate Neuroscience Journal",
+      "publisher": "Grey Matters: UW Undergraduate Neuroscience Journal",
       "releaseDate": "2013-10-31",
       "summary": "An in-depth look at three effective methods of cognitive enhancement- meditation, medication, and brain-computer interfaces",
-      "url": "http://greymattersjournal.com/wp-content/uploads/2013/10/fall2013.pdf"
+      "url": "https://drive.google.com/file/d/1Opj_W5R5kTkdZYEvryx7LlIInkZVkVLW"
     }
   ],
   "skills": [
     {
-      "name": "Data Analysis",
-      "level": "",
+      "name": "Kubernetes",
+      "level": "advanced",
       "keywords": []
     },
     {
-      "name": "Data Engineering",
-      "level": "",
+      "name": "CI/CD",
+      "level": "intermediate",
       "keywords": []
     },
     {
-      "name": "React.js",
-      "level": "",
+      "name": "OpenAPI",
+      "level": "advanced",
       "keywords": []
     },
     {
       "name": "Python",
-      "level": "",
+      "level": "advanced",
       "keywords": []
     },
     {
-      "name": "Amazon Web Services (AWS)",
-      "level": "",
+      "name": "React.js",
+      "level": "intermediate",
       "keywords": []
     },
     {
-      "name": "Apache Spark",
-      "level": "",
+      "name": "Functional Programming",
+      "level": "intermediate",
       "keywords": []
     },
     {
-      "name": "REST API",
-      "level": "",
+      "name": "AWS (RDS, DynamoDB, OpenSearch, API Gateway, IAM, etc)",
+      "level": "advanced",
+      "keywords": []
+    },
+    {
+      "name": "Metrics (Prometheus & Grafana, Datadog, NewRelic)",
+      "level": "advanced",
       "keywords": []
     }
   ],
@@ -207,7 +212,7 @@
       "language": "Arabic"
     },
     {
-      "fluency": "Limited Working",
+      "fluency": "Rusty",
       "language": "Japanese"
     },
     {
@@ -215,11 +220,29 @@
       "language": "Spanish"
     }
   ],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Neurotechnology",
+      "keywords": []
+    },
+    {
+      "name": "AIrt 🤖🎭",
+      "keywords": []
+    },
+    {
+      "name": "Real Estate",
+      "keywords": []
+    },
+    {
+      "name": "SCUBA Diving",
+      "keywords": []
+    }
+  ],
   "references": [],
   "projects": [],
   "meta": {
     "version": "v1.0.0",
-    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json",
+    "theme": "elegant"
   }
 }

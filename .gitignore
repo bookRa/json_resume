@@ -1,1 +1,5 @@
 /node_modules
+/pdfs
+/sites
+/cover_letters
+.DS_Store
