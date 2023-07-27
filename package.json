@@ -1,19 +1,27 @@
 {
   "dependencies": {
-    "@jsonresume/jsonresume-theme-class": "^0.2.5",
     "jsonresume-theme-actual": "^0.2.1",
-    "jsonresume-theme-eloquent-mod": "^4.24.0",
-    "jsonresume-theme-flat": "^0.3.7",
     "jsonresume-theme-gitlab": "^1.0.2",
+    "@jsonresume/jsonresume-theme-class": "^0.2.5",
+    "dotenv": "^16.3.1",
+    "jsonresume-theme-flat": "^0.3.7",
     "jsonresume-theme-kendall-modern": "^0.1.6",
-    "jsonresume-theme-onepage-updated": "^1.0.3",
-    "jsonresume-theme-spartacus": "^1.0.0",
-    "jsonresume-theme-straightforward": "^0.2.0"
+    "jsonresume-theme-onepage-updated": "^1.0.3"
   },
   "scripts": {
+    "onepage-updated": "resume export ./private/${BRANCH}/resumes/abdelbadie_omar.pdf -r resume_phone.json --theme onepage-updated",
+    "gitlab": "resume export ./private/${BRANCH}/resumes/abdelbadie_omar.pdf -r resume_phone.json --theme gitlab",
+    "eloquent-mod": "resume export ./private/${BRANCH}/resumes/abdelbadie_omar.pdf -r resume_phone.json --theme eloquent-mod",
+    "flat": "resume export ./private/${BRANCH}/resumes/abdelbadie_omar.pdf -r resume_phone.json --theme flat",
+    "kendall-modern": "resume export ./private/${BRANCH}/resumes/abdelbadie_omar.pdf -r resume_phone.json --theme kendall-modern",
+    "actual": "resume export ./private/${BRANCH}/resumes/abdelbadie_omar.pdf -r resume_phone.json --theme actual",
+    "class": "resume export ./private/${BRANCH}/resumes/abdelbadie_omar.pdf -r resume_phone.json --theme @jsonresume/jsonresume-theme-class",
+    "add_phone": "node postprocessing/add_phone.js",
+    "branchenv": "export BRANCH=$(git rev-parse --abbrev-ref HEAD)",
+    "makedir": "echo Branch is ${BRANCH} & mkdir -p ./private/${BRANCH}/resumes/ && mkdir -p ./private/${BRANCH}/cover_letters/",
     "preview": "resume serve --theme kendall-modern",
     "export": "resume export ./private/pdfs/abdelbadie_omar.pdf --theme actual",
-    "print": "resume export ./private/pdfs/abdelbadie_${NAME:-default}.pdf --theme actual && resume export ./private/sites/abdelbadie_${NAME:-default}.html --theme eloquent-mod",
-    "redact": "python GPT_space/anonymize.py"
+    "setup": "npm run add_phone & npm run branchenv & npm run makedir",
+    "publish": "npm run setup & npm run actual"
   }
 }
