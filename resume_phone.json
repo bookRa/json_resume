@@ -1,0 +1,256 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Omar Abdelbadie",
+    "label": "Full-Stack SDE in Machine Learning",
+    "image": "https://avatars.githubusercontent.com/u/38739863?v=4",
+    "email": "omar.abdelbadie1@gmail.com",
+    "summary": "From prototype to production, I value data-driven reactive architecture and clean functional code. I construct pipelines that transform data into impactful insights and products. An outspoken team player and quick learner, I thrive in collaborative, fast-paced environments, tackling challenging problems with exceptional communication skills.",
+    "location": {
+      "city": "Seattle",
+      "countryCode": "US",
+      "region": "Washington"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "omar-abdelbadie",
+        "url": "https://www.linkedin.com/in/omar-abdelbadie/"
+      },
+      {
+        "network": "Github",
+        "username": "bookra",
+        "url": "https://github.com/bookra"
+      },
+      {
+        "network": "YouTube",
+        "username": "@OmarAbdelbadie",
+        "url": "https://youtube.com/@OmarAbdelbadie"
+      },
+      {
+        "network": "Twitter",
+        "username": "OAbdelbadie",
+        "url": "https://twitter.com/OAbdelbadie"
+      },
+      {
+        "network": "Medium",
+        "username": "omar.abdelbadie1",
+        "url": "https://medium.com/@omar.abdelbadie1"
+      }
+    ],
+    "phone": "(425) 246-2060"
+  },
+  "work": [
+    {
+      "name": "OneLogin by One Identity",
+      "position": "Senior Data Engineer",
+      "startDate": "2022-03-31",
+      "endDate": "2023-03-31",
+      "highlights": [
+        "Solely maintained a suite of microservices comprising a machine learning-based Account Takeover Protection core product feature.",
+        "Worked closely with Ops team to migrate AWS Elasticsearch indexes, cutting bill by >75% while maintaining service performance.",
+        "Wrote whitepaper on the life-or-death importance of a Unified Identity Platform, IAM, and Zero-Trust Architecture in the years to come."
+      ],
+      "summary": "I quickly took over maintaining a complex microservices suite amidst resource challenges. Inspiring colleagues and a period of high attrition motivated me. I facilitated cross-team communication using Msft Teams, engaging stakeholders across the company in a unique way. Leading process improvement meetings, we drove a swift, impactful change adopted company-wide.",
+      "url": "https://www.onelogin.com/",
+      "location": "Redmond, WA"
+    },
+    {
+      "name": "Flexe",
+      "position": "Software Engineer II",
+      "startDate": "2019-11-30",
+      "endDate": "2021-10-31",
+      "summary": "Instilled a love of test-driven development, actionable metrics, and DevOps ownership under our mission-driven, transparent leadership (heavily ex-Amazon)",
+      "highlights": [
+        "Led the design and development of a new Order Management System feature, unlocking new mid-complexity customers with over 70,000 orders per month",
+        "Building and designing features for a rapidly growing product / customer base",
+        "Full-stack duties spanning a tech stack of Typescript, Ruby, and Scala",
+        "Infrastructure-as-code, microservice architecture, clean API design"
+      ],
+      "url": "https://www.flexe.com/",
+      "location": "Seattle, WA"
+    },
+    {
+      "name": "MAANA",
+      "position": "Research SDE in AI",
+      "startDate": "2018-11-30",
+      "endDate": "2019-07-31",
+      "highlights": [
+        "Optimized 4 AI Azure Kubernetes Microservices by implementing asynchronous calls and reducing image sizes by >70%",
+        "Streamlined customer ETL workflows by building a text annotation dashboard for custom Named Entity Recognition",
+        "Led research and design of API for External UI Integration feature",
+        "Delivered first-in-class training material for Top Oil Company on proprietary data modeling platform"
+      ],
+      "summary": "I successfully transitioned from development to a data-science focused role. I supported my team of talented data scientists by handling infrastructure, integration, and frontend tasks. Under Chief Scientist Steve's leadership, we flourished in a creative and enjoyable environment, shielded from upper management politics.",
+      "url": "https://www.linkedin.com/company/maana/",
+      "location": "Bellevue, WA"
+    },
+    {
+      "name": "General Assembly",
+      "position": "Data Science Tutor",
+      "startDate": "2018-11-30",
+      "endDate": "2019-02-28",
+      "highlights": [
+        "Coached 4 students through 12 weeks of homework/labs/projects in Data Science (scikit-learn, Tensorflow, spaCy), Engineering (Spark, web-scraping, AWS) and Visualization (Tableau, Seaborn).",
+        "Facilitated a 0% dropout rate and successful placement into Data Science roles."
+      ],
+      "summary": "",
+      "website": "https://generalassemb.ly/",
+      "location": "Seattle, WA"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Unloop",
+      "position": "Web and Data Instructor",
+      "startDate": "2017-07-31",
+      "endDate": "2020-09-30",
+      "summary": "Mentored and tutored formerly incarcerated men and women to enter the tech industry.",
+      "url": "https://www.un-loop.org/",
+      "location": "Seattle"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "area": "Neurobiology; Applied Math; Japanese",
+      "studyType": "Bachelor of Science",
+      "startDate": "2009-12-31",
+      "endDate": "2013-12-31",
+      "score": "3.7",
+      "courses": []
+    },
+    {
+      "institution": "General Assembly",
+      "area": "Data Science Immersive",
+      "startDate": "2018-07-16",
+      "endDate": "2018-09-30",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "College & Departmental Honors",
+      "date": "2013-06-30",
+      "awarder": "University of Washington Honors Program",
+      "summary": "Computational Neuroscience Training Program | Thesis (UW VisCog Lab): Attention and the Pupillary Light Response"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Amazon Web Services Cloud Practitioner",
+      "issuer": "Amazon Web Services (AWS)",
+      "date": "2019-09-30",
+      "url": "https://www.credly.com/badges/90f4fb8b-e420-4517-9cfe-cf40bfe1398a/public_url"
+    },
+    {
+      "name": "TensorFlow Developer Certificate",
+      "issuer": "TensorFlow Certificate Program",
+      "date": "2020-11-30",
+      "url": "https://www.credential.net/a741d88d-c2c2-4146-b058-d0b60b87170f"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Smarter, Better, Faster, Longer: The Efficacy and Mechanisms of Cognitive Enhancement",
+      "publisher": "Grey Matters: UW Undergraduate Neuroscience Journal",
+      "releaseDate": "2013-10-31",
+      "summary": "An in-depth look at three effective methods of cognitive enhancement- meditation, medication, and brain-computer interfaces",
+      "url": "https://drive.google.com/file/d/1Opj_W5R5kTkdZYEvryx7LlIInkZVkVLW"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Kubernetes",
+      "level": "advanced",
+      "keywords": []
+    },
+    {
+      "name": "CI/CD",
+      "level": "intermediate",
+      "keywords": [
+        "Github Actions"
+      ]
+    },
+    {
+      "name": "OpenAPI",
+      "level": "advanced",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "advanced",
+      "keywords": []
+    },
+    {
+      "name": "React.js",
+      "level": "intermediate",
+      "keywords": []
+    },
+    {
+      "name": "AWS",
+      "level": "advanced",
+      "keywords": [
+        "RDS",
+        "DynamoDB",
+        "OpenSearch",
+        "API Gateway",
+        "IAM"
+      ]
+    },
+    {
+      "name": "Metrics",
+      "level": "advanced",
+      "keywords": [
+        "Prometheus",
+        "Grafana",
+        "Datadog",
+        "NewRelic"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Arabic"
+    },
+    {
+      "fluency": "Rusty",
+      "language": "Japanese"
+    },
+    {
+      "fluency": "Professional Working",
+      "language": "Spanish"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Neurotechnology",
+      "keywords": []
+    },
+    {
+      "name": "Generative AI",
+      "keywords": []
+    },
+    {
+      "name": "Real Estate Investing",
+      "keywords": []
+    },
+    {
+      "name": "SCUBA Diving",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json",
+    "theme": "kendall"
+  }
+}
