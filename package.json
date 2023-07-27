@@ -1,15 +1,19 @@
 {
   "dependencies": {
+    "@jsonresume/jsonresume-theme-class": "^0.2.5",
     "jsonresume-theme-actual": "^0.2.1",
-    "jsonresume-theme-elegant": "^1.16.1",
-    "jsonresume-theme-eloquent": "^4.1.0",
+    "jsonresume-theme-eloquent-mod": "^4.24.0",
+    "jsonresume-theme-flat": "^0.3.7",
+    "jsonresume-theme-gitlab": "^1.0.2",
+    "jsonresume-theme-kendall-modern": "^0.1.6",
     "jsonresume-theme-onepage-updated": "^1.0.3",
     "jsonresume-theme-spartacus": "^1.0.0",
     "jsonresume-theme-straightforward": "^0.2.0"
   },
   "scripts": {
-    "elegant": "resume export big_o_elegant.pdf --theme elegant; resume export big_o_elegant.html --theme elegant",
-    "eloquent": "resume export big_o_eloquent.pdf --theme eloquent; resume export big_o_eloquent.html --theme eloquent",
-    "print": "resume export ./pdfs/abdelbadie_${NAME:-default}.pdf --theme actual && resume export ./sites/abdelbadie_${NAME:-default}.html --theme elegant"
+    "preview": "resume serve --theme kendall-modern",
+    "export": "resume export ./private/pdfs/abdelbadie_omar.pdf --theme actual",
+    "print": "resume export ./private/pdfs/abdelbadie_${NAME:-default}.pdf --theme actual && resume export ./private/sites/abdelbadie_${NAME:-default}.html --theme eloquent-mod",
+    "redact": "python GPT_space/anonymize.py"
   }
 }

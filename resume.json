@@ -3,14 +3,13 @@
   "basics": {
     "name": "Omar Abdelbadie",
     "label": "Full-Stack SDE in Machine Learning",
-    "image": "",
+    "image": "https://avatars.githubusercontent.com/u/38739863?v=4",
     "email": "omar.abdelbadie1@gmail.com",
-    "phone": "(425) 246-2060",
-    "url": "https://github.com/bookRa",
     "summary": "From prototype to production, I value data-driven reactive architecture and clean functional code. I construct pipelines that transform data into impactful insights and products. An outspoken team player and quick learner, I thrive in collaborative, fast-paced environments, tackling challenging problems with exceptional communication skills.",
     "location": {
+      "city": "Seattle",
       "countryCode": "US",
-      "address": "Seattle, WA"
+      "region": "Washington"
     },
     "profiles": [
       {
@@ -19,9 +18,9 @@
         "url": "https://www.linkedin.com/in/omar-abdelbadie/"
       },
       {
-        "network": "Twitter",
-        "username": "OAbdelbadie",
-        "url": "https://twitter.com/OAbdelbadie"
+        "network": "Github",
+        "username": "bookra",
+        "url": "https://github.com/bookra"
       },
       {
         "network": "YouTube",
@@ -29,9 +28,9 @@
         "url": "https://youtube.com/@OmarAbdelbadie"
       },
       {
-        "network": "Github",
-        "username": "bookra",
-        "url": "https://github.com/bookra"
+        "network": "Twitter",
+        "username": "OAbdelbadie",
+        "url": "https://twitter.com/OAbdelbadie"
       },
       {
         "network": "Medium",
@@ -95,7 +94,7 @@
         "Facilitated a 0% dropout rate and successful placement into Data Science roles."
       ],
       "summary": "",
-      "url": "https://www.linkedin.com/school/generalassembly/",
+      "website": "https://generalassemb.ly/",
       "location": "Seattle, WA"
     }
   ],
@@ -106,7 +105,7 @@
       "startDate": "2017-07-31",
       "endDate": "2020-09-30",
       "summary": "Mentored and tutored formerly incarcerated men and women to enter the tech industry.",
-      "website": "https://www.un-loop.org/",
+      "url": "https://www.un-loop.org/",
       "location": "Seattle"
     }
   ],
@@ -134,7 +133,7 @@
       "title": "College & Departmental Honors",
       "date": "2013-06-30",
       "awarder": "University of Washington Honors Program",
-      "summary": "Thesis: Attention and the Pupillary Light Response || UW VisCog Lab || Computational Neuroscience Training Program"
+      "summary": "Computational Neuroscience Training Program | Thesis (UW VisCog Lab): Attention and the Pupillary Light Response"
     }
   ],
   "certificates": [
@@ -169,7 +168,9 @@
     {
       "name": "CI/CD",
       "level": "intermediate",
-      "keywords": []
+      "keywords": [
+        "Github Actions"
+      ]
     },
     {
       "name": "OpenAPI",
@@ -187,19 +188,25 @@
       "keywords": []
     },
     {
-      "name": "Functional Programming",
-      "level": "intermediate",
-      "keywords": []
+      "name": "AWS",
+      "level": "advanced",
+      "keywords": [
+        "RDS",
+        "DynamoDB",
+        "OpenSearch",
+        "API Gateway",
+        "IAM"
+      ]
     },
     {
-      "name": "AWS (RDS, DynamoDB, OpenSearch, API Gateway, IAM, etc)",
+      "name": "Metrics",
       "level": "advanced",
-      "keywords": []
-    },
-    {
-      "name": "Metrics (Prometheus & Grafana, Datadog, NewRelic)",
-      "level": "advanced",
-      "keywords": []
+      "keywords": [
+        "Prometheus",
+        "Grafana",
+        "Datadog",
+        "NewRelic"
+      ]
     }
   ],
   "languages": [
@@ -226,11 +233,11 @@
       "keywords": []
     },
     {
-      "name": "AIrt 🤖🎭",
+      "name": "Generative AI",
       "keywords": []
     },
     {
-      "name": "Real Estate",
+      "name": "Real Estate Investing",
       "keywords": []
     },
     {
@@ -243,6 +250,6 @@
   "meta": {
     "version": "v1.0.0",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json",
-    "theme": "elegant"
+    "theme": "kendall"
   }
 }

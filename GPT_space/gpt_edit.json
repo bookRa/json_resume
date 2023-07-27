@@ -1,0 +1,64 @@
+{
+    "basics": {
+        "name": "*redacted*",
+        "label": "Full-Stack SDE in Machine Learning",
+        "image": "",
+        "email": "*redacted*",
+        "phone": "*redacted*",
+        "url": "*redacted*",
+        "summary": "From prototype to production, I value data-driven reactive architecture and clean functional code. I construct pipelines that transform data into impactful insights and products. An outspoken team player and quick learner, I thrive in collaborative, fast-paced environments, tackling challenging problems with exceptional communication skills.",
+        "location": {
+            "countryCode": "US",
+            "address": "Seattle, WA"
+        }
+    },
+    "work": [
+        {
+            "name": "OneLogin by One Identity",
+            "position": "Senior Data Engineer",
+            "startDate": "2022-03-31",
+            "endDate": "2023-03-31",
+            "highlights": [
+                "Solely maintained a suite of microservices comprising a machine learning-based Account Takeover Protection core product feature.",
+                "Worked closely with Ops team to migrate AWS Elasticsearch indexes, cutting bill by >75% while maintaining service performance.",
+                "Wrote whitepaper on the life-or-death importance of a Unified Identity Platform, IAM, and Zero-Trust Architecture in the years to come."
+            ],
+            "summary": "I took over maintaining a complex microservices suite amidst resource challenges, showcasing adaptability and problem-solving skills. I facilitated cross-team communication using Msft Teams, engaging stakeholders across the company. Leading process improvement meetings, we drove impactful changes adopted company-wide.",
+            "url": "https://www.onelogin.com/",
+            "location": "Redmond, WA"
+        },
+        {
+            "name": "Flexe",
+            "position": "Software Engineer II",
+            "startDate": "2019-11-30",
+            "endDate": "2021-10-31",
+            "summary": "Instilled a love of test-driven development, actionable metrics, and DevOps ownership under our mission-driven, transparent leadership (heavily ex-Amazon)",
+            "highlights": [
+                "Led the design and development of a new Order Management System feature, unlocking new mid-complexity customers with over 70,000 orders per month",
+                "Building and designing features for a rapidly growing product / customer base",
+                "Full-stack duties spanning a tech stack of Typescript, Ruby, and Scala",
+                "Infrastructure-as-code, microservice architecture, clean API design"
+            ],
+            "url": "https://www.flexe.com/",
+            "location": "Seattle, WA"
+        },
+        {
+            "name": "MAANA",
+            "position": "Research SDE in AI",
+            "startDate": "2018-11-30",
+            "endDate": "2019-07-31",
+            "highlights": [
+                "Optimized 4 AI Azure Kubernetes Microservices by implementing asynchronous calls and reducing image sizes by >70%",
+                "Streamlined customer ETL workflows by building a text annotation dashboard for custom Named Entity Recognition",
+                "Led research and design of API for External UI Integration feature",
+                "Delivered first-in-class training material for Top Oil Company on proprietary data modeling platform"
+            ],
+            "summary": "I supported a team of talented data scientists by handling infrastructure, integration, and frontend tasks, demonstrating versatility and collaboration skills. Under Chief Scientist Steve's leadership, we flourished in a creative and enjoyable environment.",
+            "url": "https://www.linkedin.com/company/maana/",
+            "location": "Bellevue, WA"
+        },
+        {
+            "name": "General Assembly",
+            "position": "Data Science Tutor",
+            "startDate": "2018-11-30",
+        "
