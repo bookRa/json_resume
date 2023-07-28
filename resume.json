@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Omar Abdelbadie",
-    "label": "Full-Stack SDE in Machine Learning",
+    "label": "Data & Machine Learning Engineer",
     "image": "https://avatars.githubusercontent.com/u/38739863?v=4",
     "email": "omar.abdelbadie1@gmail.com",
     "summary": "From prototype to production, I value data-driven reactive architecture and clean functional code. I construct pipelines that transform data into impactful insights and products. An outspoken team player and quick learner, I thrive in collaborative, fast-paced environments, tackling challenging problems with exceptional communication skills.",
@@ -180,7 +180,11 @@
     {
       "name": "Python",
       "level": "advanced",
-      "keywords": []
+      "keywords": [
+        "Keras",
+        "Langchain",
+        "Streamlit"
+      ]
     },
     {
       "name": "React.js",
@@ -191,11 +195,14 @@
       "name": "AWS",
       "level": "advanced",
       "keywords": [
-        "RDS",
+        "Lambda",
+        "Step Functions",
+        "SNS/SQS",
         "DynamoDB",
         "OpenSearch",
         "API Gateway",
-        "IAM"
+        "IAM",
+        "EKS"
       ]
     },
     {
@@ -205,7 +212,8 @@
         "Prometheus",
         "Grafana",
         "Datadog",
-        "NewRelic"
+        "NewRelic",
+        "OpenTelemetry"
       ]
     }
   ],
@@ -219,30 +227,12 @@
       "language": "Arabic"
     },
     {
-      "fluency": "Rusty",
+      "fluency": "Intermediate",
       "language": "Japanese"
     },
     {
       "fluency": "Professional Working",
       "language": "Spanish"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Neurotechnology",
-      "keywords": []
-    },
-    {
-      "name": "Generative AI",
-      "keywords": []
-    },
-    {
-      "name": "Real Estate Investing",
-      "keywords": []
-    },
-    {
-      "name": "SCUBA Diving",
-      "keywords": []
     }
   ],
   "references": [],
