@@ -1,15 +1,14 @@
 {
   "dependencies": {
+    "dotenv": "^16.3.1",
     "jsonresume-theme-actual": "^0.2.1",
-    "jsonresume-theme-kendall-modern": "^0.1.6",
     "jsonresume-theme-gitlab": "^1.0.2",
-    "dotenv": "^16.3.1"
+    "jsonresume-theme-kendall-modern": "^0.1.6"
   },
   "scripts": {
-    "preview": "resume serve --theme kendall-modern",
-    "actual": "export BRANCH=$(git rev-parse --abbrev-ref HEAD) && resume export ./private/${BRANCH}/resumes/abdelbadie_omar.pdf -r resume_phone.json --theme actual",
-    "gitlab": "export BRANCH=$(git rev-parse --abbrev-ref HEAD) && resume export ./private/${BRANCH}/resumes/abdelbadie_omar.pdf -r resume_phone.json --theme gitlab",
-    "kendall-modern": "export BRANCH=$(git rev-parse --abbrev-ref HEAD) && resume export ./private/${BRANCH}/resumes/abdelbadie_omar.pdf -r resume_phone.json --theme kendall-modern",
+    "actual": "export BRANCH=$(git rev-parse --abbrev-ref HEAD) && resume export ./private/${BRANCH}/resumes/abdelbadie_omar_${BRANCH}.pdf -r resume_phone.json --theme actual",
+    "gitlab": "export BRANCH=$(git rev-parse --abbrev-ref HEAD) && resume export ./private/${BRANCH}/resumes/abdelbadie_omar_${BRANCH}.html -r resume_phone.json --theme gitlab",
+    "kendall-modern": "export BRANCH=$(git rev-parse --abbrev-ref HEAD) && resume export ./private/${BRANCH}/resumes/abdelbadie_omar_${BRANCH}.html -r resume_phone.json --theme kendall-modern",
     "add_phone": "node postprocessing/add_phone.js",
     "makedir": "export BRANCH=$(git rev-parse --abbrev-ref HEAD) && mkdir -p ./private/${BRANCH}/resumes/; mkdir -p ./private/${BRANCH}/cover_letters/",
     "setup": "npm run add_phone && npm run makedir",
