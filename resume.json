@@ -5,7 +5,7 @@
     "label": "Data & Machine Learning Engineer",
     "image": "https://avatars.githubusercontent.com/u/38739863?v=4",
     "email": "omar.abdelbadie1@gmail.com",
-    "summary": "From prototype to production, I value data-driven reactive architecture and clean functional code. I construct pipelines that transform data into impactful insights and products. An outspoken team player and quick learner, I thrive in collaborative, fast-paced environments, tackling challenging problems with exceptional communication skills.",
+    "summary": "From prototype to production, I value data-driven, reactive architecture and clean functional code. An outspoken team player and quick learner, I thrive in collaborative environments tackling complex problems.",
     "location": {
       "city": "Seattle",
       "countryCode": "US",
@@ -62,7 +62,6 @@
       "summary": "Instilled a love of test-driven development, actionable metrics, and DevOps ownership under our mission-driven, transparent leadership (heavily ex-Amazon)",
       "highlights": [
         "Led the design and development of a new Order Management System feature, unlocking new mid-complexity customers with over 70,000 orders per month",
-        "Building and designing features for a rapidly growing product / customer base",
         "Full-stack duties spanning a tech stack of Typescript, Ruby, and Scala",
         "Infrastructure-as-code, microservice architecture, clean API design"
       ],
