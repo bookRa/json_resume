@@ -43,8 +43,8 @@
     {
       "name": "OneLogin",
       "position": "Senior Data Engineer",
-      "startDate": "2022-03-31",
-      "endDate": "2023-03-31",
+      "startDate": "2022-03",
+      "endDate": "2023-04",
       "highlights": [
         "Solely maintained a suite of microservices comprising a machine learning-based Account Takeover Protection core product feature.",
         "Worked closely with Ops team to migrate AWS Elasticsearch indexes, cutting bill by >75% while maintaining service performance.",
@@ -57,8 +57,8 @@
     {
       "name": "Flexe",
       "position": "Software Engineer II",
-      "startDate": "2019-11-30",
-      "endDate": "2021-10-31",
+      "startDate": "2019-11",
+      "endDate": "2021-10",
       "summary": "Instilled a love of test-driven development, actionable metrics, and DevOps ownership under our mission-driven, transparent leadership (heavily ex-Amazon)",
       "highlights": [
         "Led the design and development of a new Order Management System feature, unlocking new mid-complexity customers with over 70,000 orders per month",
@@ -71,8 +71,8 @@
     {
       "name": "MAANA",
       "position": "Research SDE in AI",
-      "startDate": "2018-11-30",
-      "endDate": "2019-07-31",
+      "startDate": "2018-11",
+      "endDate": "2019-07",
       "highlights": [
         "Optimized 4 AI Azure Kubernetes Microservices by implementing asynchronous calls and reducing image sizes by >70%",
         "Streamlined customer ETL workflows by building a text annotation dashboard for custom Named Entity Recognition",
@@ -86,8 +86,8 @@
     {
       "name": "General Assembly",
       "position": "Data Science Tutor",
-      "startDate": "2018-11-30",
-      "endDate": "2019-02-28",
+      "startDate": "2018-11",
+      "endDate": "2019-02",
       "highlights": [
         "Coached 4 students through 12 weeks of homework/labs/projects in Data Science (scikit-learn, Tensorflow, spaCy), Engineering (Spark, web-scraping, AWS) and Visualization (Tableau, Seaborn).",
         "Facilitated a 0% dropout rate and successful placement into Data Science roles."
@@ -101,8 +101,8 @@
     {
       "organization": "Unloop",
       "position": "Web and Data Instructor",
-      "startDate": "2017-07-31",
-      "endDate": "2020-09-30",
+      "startDate": "2017-07",
+      "endDate": "2020-09",
       "summary": "Mentored and tutored formerly incarcerated men and women to enter the tech industry.",
       "url": "https://www.un-loop.org/",
       "location": "Seattle"
@@ -113,16 +113,16 @@
       "institution": "University of Washington",
       "area": "Neurobiology; Applied Math; Japanese",
       "studyType": "Bachelor of Science",
-      "startDate": "2009-12-31",
-      "endDate": "2013-12-31",
+      "startDate": "2009-09",
+      "endDate": "2013-06",
       "score": "3.7",
       "courses": []
     },
     {
       "institution": "General Assembly",
       "area": "Data Science Immersive",
-      "startDate": "2018-07-16",
-      "endDate": "2018-09-30",
+      "startDate": "2018-07",
+      "endDate": "2018-09",
       "score": "",
       "courses": []
     }
@@ -130,7 +130,7 @@
   "awards": [
     {
       "title": "College & Departmental Honors",
-      "date": "2013-06-30",
+      "date": "2013-06",
       "awarder": "University of Washington Honors Program",
       "summary": "Computational Neuroscience Training Program | Thesis (UW VisCog Lab): Attention and the Pupillary Light Response"
     }
@@ -139,13 +139,13 @@
     {
       "name": "Amazon Web Services Cloud Practitioner",
       "issuer": "Amazon Web Services (AWS)",
-      "date": "2019-09-30",
+      "date": "2019-09-05",
       "url": "https://www.credly.com/badges/90f4fb8b-e420-4517-9cfe-cf40bfe1398a/public_url"
     },
     {
       "name": "TensorFlow Developer Certificate",
       "issuer": "TensorFlow Certificate Program",
-      "date": "2020-11-30",
+      "date": "2020-11-23",
       "url": "https://www.credential.net/a741d88d-c2c2-4146-b058-d0b60b87170f"
     }
   ],
@@ -153,9 +153,9 @@
     {
       "name": "Smarter, Better, Faster, Longer: The Efficacy and Mechanisms of Cognitive Enhancement",
       "publisher": "Grey Matters: UW Undergraduate Neuroscience Journal",
-      "releaseDate": "2013-10-31",
+      "releaseDate": "2013-10",
       "summary": "An in-depth look at three effective methods of cognitive enhancement- meditation, medication, and brain-computer interfaces",
-      "url": "https://drive.google.com/file/d/1Opj_W5R5kTkdZYEvryx7LlIInkZVkVLW"
+      "url": "https://greymattersjournal.org/smarter-better-faster-longer/"
     }
   ],
   "skills": [
