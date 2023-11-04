@@ -2,10 +2,10 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Omar Abdelbadie",
-    "label": "Data & Machine Learning Engineer",
+    "label": "Technical Product Manager - Data Infrastructure & ML",
     "image": "https://avatars.githubusercontent.com/u/38739863?v=4",
     "email": "omar.abdelbadie1@gmail.com",
-    "summary": "From prototype to production, I value data-driven, reactive architecture and clean functional code. An outspoken team player and quick learner, I thrive in collaborative environments tackling complex problems.",
+    "summary": "Thriving in the messy ambiguity of interpersonal communications, I embrace the challenge of coordinating diverse teams, unlocking the alchemy that emerges when individuals are fully aligned. From architecting data pipelines to fostering shared language, I'm driven to lead projects that harness the untapped potential of teams, ensuring impactful products across Data Platforms, AI, MLOps, and LLMOps.",
     "location": {
       "city": "Seattle",
       "countryCode": "US",
@@ -46,11 +46,12 @@
       "startDate": "2022-03",
       "endDate": "2023-04",
       "highlights": [
-        "Solely maintained a suite of microservices comprising a machine learning-based Account Takeover Protection core product feature.",
-        "Worked closely with Ops team to migrate AWS Elasticsearch indexes, cutting bill by >75% while maintaining service performance.",
-        "Wrote whitepaper on the significance of a Unified Identity Platform, IAM, and Zero-Trust Architecture in the years to come."
+        "Solely managed a ML Account Takeover Protection microservices suite, ensuring consistent performance in challenging conditions.",
+        "Collaborated effectively with Ops team to optimize AWS Elasticsearch, significantly reducing costs >75% without compromising service quality.",
+        "Authored a whitepaper on the value of a Unified Identity Platform, IAM, and Zero-Trust Architecture.",
+        "Championed process improvements embraced company-wide, fostering team efficiency through effective communication and leadership."
       ],
-      "summary": "I quickly took over maintaining a complex microservices suite amidst resource challenges. Inspiring colleagues and a period of high attrition motivated me. I facilitated cross-team communication using Msft Teams, engaging stakeholders across the company in a unique way. Leading process improvement meetings, we drove a swift, impactful change adopted company-wide.",
+      "summary": "Joining during a period of high attrition, I proactively sought to become the 'glue' aligning stakeholders across OneLogin, amplifying my impact beyond technical expertise in ML. From managing microservices to spearheading company-wide process improvements, I earned the trust of leadership by fostering collaboration and initiating difficult conversations.",
       "url": "https://www.onelogin.com/",
       "location": "Redmond, WA"
     },
